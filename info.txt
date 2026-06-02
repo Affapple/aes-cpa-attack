@@ -1,0 +1,14 @@
+put level on top to 2
+
+# (Blue) Scope 1
+Mode Repeate(...)
+Trigger normal
+source channel blue
+type edge
+condition rising
+level 2
+hyst auto
+
+(Armed C1 C2(chosen))
+
+Measure one power trace, 
