@@ -3,3 +3,4 @@ scipy
 pyserial
 matplotlib
 ipykernel
+tqdm
